@@ -1,5 +1,7 @@
 # DDGVehicles
 
+**HELICOPTERS DON'T WORK YET!**
+
 **Compiling**
 1. Put the dependecies I used locally in a folder called ``lib``
 2. After that use ``maven install`` to compile the project.
