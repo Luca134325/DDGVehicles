@@ -2,5 +2,3 @@ mongodb:
   host: localhost
   port: 27017
   database: ddgvehicles
-
-key: K79Q-NJN2-V2RC-WWUU
