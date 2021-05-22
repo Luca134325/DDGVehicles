@@ -1,0 +1,5 @@
+name: DDGVehicles
+version: ${project.version}
+main: dev.maiky.ddgvehicles.Main
+depend: [ ProtocolLib, BlackMT-MinetopiaCore ]
+authors: [ Maiky ]
